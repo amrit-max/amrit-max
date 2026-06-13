@@ -12,11 +12,10 @@
 
 ## 🧠 About Me
 
-- 🔨 **Currently building:** [TriAge](https://github.com/amrit-max), an Autonomous Quality Engineering Platform — a self-healing CI/CD agent using LangGraph that performs automated Root Cause Analysis and generates fix patches via GitHub MCP pull requests.
-- 🏆 **Recent Wins:** 2× Hackathon Winner (1st place) at DSCE Bengaluru and 2× Hackathon Finalist at inter-college competitions across 50+ competing teams.
-- 🤝 **Looking to collaborate on:** AI/ML projects, RAG pipelines, LangChain/LangGraph agents, and full-stack AI-integrated applications.
-- 🌱 **Currently learning:** Advanced LLM Agents, LangGraph workflows, and scalable vector search with Pinecone.
-- 💬 **Ask me about:** LangChain, RAG systems, Python, full-stack deployment, or Power BI dashboards.
+- 🤖 AI/ML engineer and full-stack developer passionate about building **intelligent systems that actually do things** — agents, RAG pipelines, and LLM-powered tools.
+- 🛠️ I love turning complex problems into clean, automated solutions — whether that's a self-healing CI/CD pipeline or a document assistant that understands context.
+- 🤝 **Looking to collaborate on:** AI agents, LangChain/LangGraph workflows, open-source ML, and hackathons.
+- 💬 **Ask me about:** LangChain, RAG, LLM agents, Python, or React.
 - ⚡ **Fun fact:** I spend my days building AI agents that auto-fix broken code, and my nights making sure they don't break mine.
 
 ---
