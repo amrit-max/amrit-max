@@ -12,8 +12,8 @@
 
 ## 🧠 About Me
 
-- 🤖 AI/ML engineer and full-stack developer passionate about building **intelligent systems that actually do things** — agents, RAG pipelines, and LLM-powered tools.
-- 🛠️ I love turning complex problems into clean, automated solutions — whether that's a self-healing CI/CD pipeline or a document assistant that understands context.
+- 🤖 AI/ML engineer and full-stack developer passionate about building **intelligent systems that actually do things**  agents, RAG pipelines, and LLM-powered tools.
+- 🛠️ I love turning complex problems into clean, automated solutions  whether that's a self-healing CI/CD pipeline or a document assistant that understands context.
 - 🤝 **Looking to collaborate on:** AI agents, LangChain/LangGraph workflows, open-source ML, and hackathons.
 - 💬 **Ask me about:** LangChain, RAG, LLM agents, Python, or React.
 - ⚡ **Fun fact:** I spend my days building AI agents that auto-fix broken code, and my nights making sure they don't break mine.
